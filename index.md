@@ -1,34 +1,17 @@
 ## WELCOME
 Nama Saya Sulthan Habib, mahasiswa pemalas jurusan [Sistem Informasi](http://sif.uin-suska.ac.id/), Fakultas Sains dan Teknologi, [Universitas Islam Negeri Sultan Syarif Kasim](http://uin-suska.ac.id/). Hobi saya menonton **FILM** dan **TV-Series** bajakan sambil mencerca kehidupan sendiri.
 
-### Markdown
+### Skill
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Edit index.md dari tema Jekyll
+2. Beginner level english understanding
+3. Beginner level Western and Japanese Pop Culture understanding
+4. etc
 
-```markdown
-Syntax highlighted code block
+### Portfolio
 
-# Header 1
-## Header 2
-### Header 3
+You can check all my work on [Github](github.com/habibgg98)
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/habibgg98/habibgg98.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can contact me on [Gmail](habib.sulthagg@gmail.com) and check my latest work on [Twitter](twitter.com/habib_sulthan) Thankyou, Adios
