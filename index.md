@@ -1,5 +1,5 @@
 ## WELCOME
-Nama Saya Sulthan Habib, Mahasiswa jurusan [Studi Sistem Informasi](http://sif.uin-suska.ac.id/), Fakultas Sains dan Teknologi, [Universitas Islam Negeri Sultan Syarif Kasim](http://uin-suska.ac.id/), Riau
+Nama Saya Sulthan Habib, mahasiswa pemalas jurusan [Sistem Informasi](http://sif.uin-suska.ac.id/), Fakultas Sains dan Teknologi, [Universitas Islam Negeri Sultan Syarif Kasim](http://uin-suska.ac.id/). Hobi saya menonton **FILM** dan **TV-Series** bajakan sambil mencerca kehidupan sendiri.
 
 ### Markdown
 
